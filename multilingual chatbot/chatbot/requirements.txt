@@ -1,0 +1,9 @@
+flask
+scikit-learn
+pandas
+joblib
+transformers
+torch
+flask-bootstrap
+sentencepiece
+protobuf
